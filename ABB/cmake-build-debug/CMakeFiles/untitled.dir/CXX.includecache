@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rodrigocalles/Desktop/trabajos Estructuras/Tarea ABB/ABB.h
+iostream
+-
+Cola.h
+/Users/rodrigocalles/Desktop/trabajos Estructuras/Tarea ABB/Cola.h
+
+/Users/rodrigocalles/Desktop/trabajos Estructuras/Tarea ABB/Cola.h
+Excepcion.h
+/Users/rodrigocalles/Desktop/trabajos Estructuras/Tarea ABB/Excepcion.h
+
+/Users/rodrigocalles/Desktop/trabajos Estructuras/Tarea ABB/Excepcion.h
+cstring
+-
+
+/Users/rodrigocalles/Desktop/trabajos Estructuras/Tarea ABB/main.cpp
+iostream
+-
+ABB.h
+/Users/rodrigocalles/Desktop/trabajos Estructuras/Tarea ABB/ABB.h
+
